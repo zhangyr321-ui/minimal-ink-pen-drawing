@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Minimal Ink Pen Drawing — Style Preview</title>
+  <desc id="desc">A warm paper-colored preview card showing a minimalist hand-drawn flower and tree in black ink.</desc>
+  <rect width="1200" height="720" fill="#f7f4ec"/>
+  <rect x="24" y="24" width="1152" height="672" rx="12" fill="none" stroke="#ded8cb" stroke-width="2"/>
+  <g fill="#24221f">
+    <text x="68" y="94" font-family="Georgia, serif" font-size="42" letter-spacing="2">MINIMAL INK</text>
+    <text x="70" y="128" font-family="Arial, sans-serif" font-size="16" letter-spacing="4" fill="#777066">PEN DRAWING · STYLE PREVIEW</text>
+  </g>
+  <path d="M68 153 H1132" stroke="#d9d2c5" stroke-width="1.5"/>
+  <g>
+    <rect x="68" y="184" width="510" height="432" rx="8" fill="#fffdf8" stroke="#e6dfd2" stroke-width="1.5"/>
+    <rect x="622" y="184" width="510" height="432" rx="8" fill="#fffdf8" stroke="#e6dfd2" stroke-width="1.5"/>
+  </g>
+  <g fill="none" stroke="#25231f" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round">
+    <!-- hand-drawn lily -->
+    <path d="M323 493 C322 451 324 409 320 367 C318 339 321 315 325 294"/>
+    <path d="M321 428 C292 414 275 394 267 374"/>
+    <path d="M323 449 C352 427 370 406 380 383"/>
+    <path d="M323 331 C299 308 286 280 298 257 C308 237 329 246 338 266 C347 285 340 311 323 331 Z"/>
+    <path d="M322 331 C298 326 268 313 258 288 C251 268 264 254 282 265 C303 278 313 305 322 331 Z"/>
+    <path d="M322 331 C335 304 358 281 381 284 C400 286 401 306 386 321 C369 337 343 338 322 331 Z"/>
+    <path d="M322 331 C348 336 370 354 371 376 C371 395 352 399 339 383 C328 368 323 349 322 331 Z"/>
+    <path d="M322 331 C301 350 277 365 258 354 C241 344 248 324 267 316 C286 309 308 319 322 331 Z"/>
+    <path d="M322 331 C312 359 311 389 294 401 C278 412 264 399 273 380 C283 360 303 343 322 331 Z"/>
+    <path d="M322 331 C326 303 337 281 355 272"/>
+    <path d="M323 331 C307 307 292 293 277 290"/>
+    <path d="M323 331 C348 314 365 306 383 306"/>
+    <path d="M322 493 C303 501 291 510 283 522"/>
+    <path d="M323 469 C343 477 356 489 363 504"/>
+    <path d="M287 522 C275 514 264 514 254 519"/>
+    <path d="M362 504 C373 499 383 501 391 508"/>
+  </g>
+  <g fill="#25231f">
+    <circle cx="322" cy="330" r="5"/>
+    <text x="323" y="574" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" letter-spacing="3">BOTANICAL STUDY</text>
+  </g>
+  <g fill="none" stroke="#25231f" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round">
+    <!-- irregular tree canopy -->
+    <path d="M859 466 C827 458 815 440 821 421 C799 408 806 384 827 376 C814 354 832 333 854 337 C851 314 872 302 893 314 C909 292 936 300 943 321 C964 309 985 326 981 347 C1004 350 1016 371 1001 389 C1020 407 1008 430 988 433 C986 455 964 466 944 455 C923 473 897 466 889 452 C878 464 868 467 859 466 Z"/>
+    <path d="M910 465 C911 488 910 513 910 536"/>
+    <path d="M910 489 C888 474 874 455 869 438"/>
+    <path d="M911 480 C934 462 947 443 953 426"/>
+    <path d="M909 458 C893 441 887 425 888 409"/>
+    <path d="M912 448 C929 432 934 415 932 401"/>
+    <path d="M910 536 C891 537 876 537 860 536"/>
+    <path d="M910 536 C930 536 948 537 965 536"/>
+    <path d="M766 538 C822 531 878 531 932 536 C985 541 1030 539 1080 533"/>
+    <!-- sparse foliage marks -->
+    <path d="M850 366 q8 -7 14 1 M885 342 q8 -6 14 1 M950 356 q7 -6 12 1 M972 402 q8 -5 12 2 M841 418 q7 -6 12 1 M925 377 q7 -6 12 1"/>
+  </g>
+  <g fill="#25231f">
+    <text x="877" y="574" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" letter-spacing="3">TREE STUDY</text>
+  </g>
+  <text x="600" y="655" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" letter-spacing="2" fill="#8b8376">CLEAN LINES · WARM PAPER · QUIET DETAILS</text>
+</svg>

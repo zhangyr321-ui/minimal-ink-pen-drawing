@@ -4,6 +4,12 @@
 
 > V1 只包含黑白极简钢笔画，**不包含彩色涂鸦模式**。
 
+## 效果预览
+
+下面是本项目的风格示意图：以黑色线稿、暖白纸感背景、简化轮廓和充足留白为主。它用于说明目标风格，不代表每次模型输出都会完全相同。
+
+![Minimal Ink Pen Drawing style preview](images/style-preview.svg)
+
 ## 风格目标
 
 - 细而清晰的实黑线条，不用粗重漫画描边
@@ -21,6 +27,8 @@ minimal-ink-pen-drawing/
 ├── README.md
 ├── CHANGELOG.md
 ├── LICENSE
+├── images/
+│   └── style-preview.svg
 └── references/
     ├── STYLE_GUIDE.md
     └── TEST_CHECKLIST.md
